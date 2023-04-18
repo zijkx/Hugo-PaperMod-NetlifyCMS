@@ -1,5 +1,5 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+title: 生活博客
 paginate: 5
 theme: hugo-PaperMod
 
@@ -18,7 +18,7 @@ minify:
 
 languages:
     en:
-        languageName: "English"
+        languageName: "Chinese"
         weight: 1
         taxonomies:
           category: categories
@@ -35,10 +35,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                - name: 学术主页
+                  url: https://zexinfu.com
 
     fr:
         languageName: ":fr:"
@@ -136,15 +134,11 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "说些什么..."
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            Welcome!
 
             - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. This starter supports editing posts with NetlifyCMS, login at /admin. Most other configs (including this message!) happen in config.yml in the root directory.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
     socialIcons:
         - name: github
