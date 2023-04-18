@@ -1,0 +1,13 @@
+---
+author: "傅泽薪"
+title: "重启"
+date: "2023-04-18"
+description: ""
+tags: ["随笔"]
+ShowToc: false
+ShowBreadCrumbs: false
+---
+
+最近开始陆续整理以前写过的随笔和思考。以此为开始，重新开始记录吧。
+
+<!--more-->
