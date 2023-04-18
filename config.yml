@@ -82,9 +82,9 @@ params:
         Content: >
             在城市里待久了，老忘记原来人也是生物圈的一部分。
 
-    socialIcons:
-        - name: zhihu
-          url: "https://www.zhihu.com/people/Kevin-eighth"
+#    socialIcons:
+#        - name: zhihu
+#          url: "https://www.zhihu.com/people/Kevin-eighth"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
