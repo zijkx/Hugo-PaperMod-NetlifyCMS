@@ -26,13 +26,13 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
+                - name: 归档
                   url: archives
                   weight: 5
-                - name: Search
+                - name: 搜索
                   url: search/
                   weight: 10
-                - name: Tags
+                - name: 标签
                   url: tags/
                   weight: 10
                 - name: 学术主页
@@ -83,12 +83,8 @@ params:
             在城市里待久了，老忘记原来人也是生物圈的一部分。
 
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
+        - name: zhihu
+          url: "https://www.zhihu.com/people/Kevin-eighth"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
